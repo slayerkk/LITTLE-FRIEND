@@ -17,6 +17,7 @@ git clone https://github.com/slayerkk/little-friend
 cd little-friend
 
 python3 little friend
+
 ==========================+==========================
 
 para contato direto, me chame via instagram ou whatsapp :)
