@@ -5,7 +5,7 @@ acesse esse link e instale a versao mais recente: https://f-droid.org/en/package
 ==========================+==========================
 
 instalaçao  (termux)
-
+-
 pkg install git
 
 pkg install python
@@ -19,10 +19,10 @@ cd little-friend
 python3 little friend
 
 ==========================+==========================
--
+
 para contato direto, me chame via instagram ou whatsapp :)
 
 ig:@slayerkkk_
 
 whatsapp:+55 41 9632-1372
--
+
