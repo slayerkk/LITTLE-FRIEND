@@ -20,6 +20,8 @@ python3 little friend
 
 ==========================+==========================
 
+quer falar comigo?
+-
 para contato direto, me chame via instagram ou whatsapp :)
 
 ig:@slayerkkk_
