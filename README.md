@@ -6,7 +6,7 @@ pkg install python
 
 pkg install python3
 
-git clone 
+git clone https://github.com/slayerkk/little-friend
 
 cd little-friend
 
