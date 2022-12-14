@@ -1,3 +1,9 @@
+Oque é o little friend?
+-
+O little friend e um script que executa outros
+Scripts, de forma fácil e rápida, um menu sofisticado
+Feito propiamente para isso.
+
 como instalar o termux no celular?
 -
 acesse esse link e instale a versao mais recente: https://f-droid.org/en/packages/com.termux/
