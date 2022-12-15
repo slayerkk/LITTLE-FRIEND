@@ -16,7 +16,7 @@ pkg install python
 
 pkg install python3
 
-git clone https://github.com/slayerkk/little-friend
+git clone https://github.com/slayerkk/LITTLE-FRIEND.git
 
 cd little-friend
 
@@ -31,4 +31,3 @@ para contato direto, me chame via instagram ou whatsapp :)
 ig:@slayerkkk_
 
 whatsapp:+55 41 9632-1372
-
